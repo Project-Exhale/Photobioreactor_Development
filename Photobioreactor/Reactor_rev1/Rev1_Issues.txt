@@ -1,1 +1,1 @@
-- Normals on Text causes Problems (Slices fine though)
+- Normals on Text causes Problems (Slicing fine though)
