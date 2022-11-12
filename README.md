@@ -13,6 +13,6 @@ Created by: Simeon Wallrath, 2022
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 # ToDo
-- Cleanup and Upload Blendfiles
+- ~Cleanup and Upload Blendfiles~
 - Documentation
 - Switch to Geometry Nodes?
