@@ -1,0 +1,56 @@
+%!Adobe-FontList 1.22
+%Locale:0x407
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RedHatText-Light
+FamilyName:Red Hat Text
+StyleName:Light
+FullName:Red Hat Text Light
+MenuName:Red Hat Text
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Dokumente\Blender\Exhale_Merch\Photobioreactor\Booklet_rev2\Booklet_V2 Folder\Document fonts\RedHatText-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:93780
+FileModTime:1666551917
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Red Hat Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeSongStd-Light
+FamilyName:Adobe Song Std
+StyleName:L
+FullName:Adobe Song Std L
+MenuName:Adobe Song Std L
+StyleBits:0
+FamilyNameNative:Adobe 宋体 Std
+StyleNameNative:L
+FullNameNative:Adobe 宋体 Std L
+WritingScript:SimplifiedChinese
+OutlineFileName:D:\Dokumente\Blender\Exhale_Merch\Photobioreactor\Booklet_rev2\Booklet_V2 Folder\Document fonts\adobesongstd-light.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:15589912
+FileModTime:1601475006
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Adobe Song Std L
+NameArray:25,Mac,4,Adobe 宋体 Std L
+NameArray:0,Win,1,Adobe Song Std L
+NameArray:0,Win,16,Adobe Song Std
+NameArray:25,Win,1,Adobe 宋体 Std L
+NameArray:25,Win,16,Adobe 宋体 Std
+%EndFont
+
