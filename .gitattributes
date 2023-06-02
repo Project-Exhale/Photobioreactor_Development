@@ -6,6 +6,7 @@ text=auto
 *.ai filter=lfs diff=lfs merge=lfs -text
 *.umap filter=lfs diff=lfs merge=lfs -text
 *.uasset filter=lfs diff=lfs merge=lfs -text
+*.stl filter=lfs diff=lfs merge=lfs -text
 
 ## Unreal Engine ##
 ## Auto detect text files and perform LF normalization ##
